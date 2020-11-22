@@ -8,9 +8,6 @@
             DOCC
           </h2>
         </div>
-        <video width="100%" height="500px" autoplay controls>
-          <source src="https://www.dropbox.com/s/25mwlemycjveuvt/zoom_0.mp4?dl=1" type="video/mp4" />
-        </video>
         <h1 class="text-4xl text-center lg:text-5xl">
           Great Documentation starts here.
         </h1>
